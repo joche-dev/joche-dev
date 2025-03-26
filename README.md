@@ -1,4 +1,4 @@
-ko- 👋 Hola, soy @José-Albornoz
+- 👋 Hola, soy @José-Albornoz
 - 🌱 Estoy constantemente aprendiendo y creciendo.
 
 ### Lenguajes más usados
